@@ -2,7 +2,9 @@
 Problem Set 2: Crypto.
 
 caesar.c - Ceaser Cipher encription using a key given by user.
+
 initials.c - Prompts for user's name and prints out only his/hers initials in capital letters
+
 vigenere.c - Vigenere Cipher encription using a keyword given by user.
 
 
